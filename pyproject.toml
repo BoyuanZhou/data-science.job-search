@@ -16,6 +16,7 @@ python-dotenv = "^1.0.1"
 pandas = "^2.2.3"
 ipykernel = "^6.29.5"
 jupyter = "^1.1.1"
+python-jobspy = "^1.1.82"
 
 
 [tool.poetry.group.dev.dependencies]
